@@ -1,4 +1,5 @@
 Math Painting Project 🎨
+
 This project is a simple Python program that allows you to create a "painting" by drawing squares and rectangles on a canvas. You can specify the size, position, and color (RGB) of each shape, and the program will generate an image of your design.
 
 Features
